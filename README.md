@@ -22,7 +22,7 @@
     <h2>⚙️ Instrucciones para inicializar el proyecto</h2>
 
 <strong>1️⃣ Clonar el repositorio:</strong><br/>
-&nbsp;&nbsp;&nbsp;git clone https://github.com/RomerAldana/Evaluacion2-P-BattaJose-MendozaDavian.<br/>
+&nbsp;&nbsp;&nbsp;git clone https://github.com/RomerAldana/Evaluacion2-P-BattaJose-MendozaDavian..git<br/>
 &nbsp;&nbsp;&nbsp;cd Evaluacion2-P-BattaJose-MendozaDavian.<br/>
 
 <strong>2️⃣ Instalar dependencias:</strong><br/>
